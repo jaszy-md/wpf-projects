@@ -1,0 +1,88 @@
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\MainWindow.g.cs
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen_MarkupCompile.cache
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen_MarkupCompile.lref
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\bin\Debug\Project2Fietsen.exe.config
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\bin\Debug\Project2Fietsen.exe
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\bin\Debug\Project2Fietsen.pdb
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\MainWindow.baml
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.g.resources
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.Properties.Resources.resources
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.exe
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.pdb
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\Rekenmachine.g.cs
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\Project2Fietsen\Project2Fietsen\obj\Debug\Rekenmachine.baml
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\bin\Debug\Project2Fietsen.exe.config
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\bin\Debug\Project2Fietsen.exe
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\bin\Debug\Project2Fietsen.pdb
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.AssemblyReference.cache
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.SuggestedBindingRedirects.cache
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\MainWindow.g.cs
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\Rekenmachine.g.cs
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\App.g.cs
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen_MarkupCompile.cache
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen_MarkupCompile.lref
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\MainWindow.baml
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\Rekenmachine.baml
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.g.resources
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.Properties.Resources.resources
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.GenerateResource.cache
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.CoreCompileInputs.cache
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.exe
+C:\Users\juriaan.manuela@cegeka.com\Downloads\Project2Fietsen-juriaan\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.pdb
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\Project2Fietsen.exe.config
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\Project2Fietsen.exe
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\Project2Fietsen.pdb
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\MainWindow.g.cs
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Rekenmachine.g.cs
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen_MarkupCompile.cache
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen_MarkupCompile.lref
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\MainWindow.baml
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Rekenmachine.baml
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.g.resources
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.Properties.Resources.resources
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.exe
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.pdb
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\MessageboxCustom.baml
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\MessageboxCustom.g.cs
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\MaterialDesignColors.dll
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jasmi\Documents\summa ict\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.CopyComplete
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\Project2Fietsen.exe.config
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\Project2Fietsen.exe
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\Project2Fietsen.pdb
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\MaterialDesignColors.dll
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\MessageboxCustom.baml
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\MainWindow.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Rekenmachine.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\MessageboxCustom.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen_MarkupCompile.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen_MarkupCompile.lref
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\MainWindow.baml
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Rekenmachine.baml
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.g.resources
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.Properties.Resources.resources
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.csproj.CopyComplete
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.exe
+C:\Users\jasmi\Documents\summa ict\leerjaar1\project2\programmeren-Project2\project2\Project2Fietsen\Project2Fietsen\obj\Debug\Project2Fietsen.pdb

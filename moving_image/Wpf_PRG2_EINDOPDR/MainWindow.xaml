@@ -1,0 +1,132 @@
+﻿<Window x:Class="Wpf_PRG2_EINDOPDR.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_PRG2_EINDOPDR"
+        mc:Ignorable="d"
+        Title="Stop the button" Height="450" Width="800"
+        Background="Blue">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.5*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Column="1" 
+              Grid.ColumnSpan="3" 
+              Grid.RowSpan="2" 
+              Background="Yellow" Margin="0,10,10,0"
+              x:Name ="MapCanvas" 
+              >
+
+            <Canvas>
+                <Image Source="Assets/roadrunner.jpg"
+                   Width="70px"
+                   Height="57px"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Top"
+                   Cursor="Hand"
+                   MouseEnter="Ball_MouseEnter"
+                   x:Name="Ball"
+                   />
+            </Canvas>
+            
+
+
+        </Grid>
+
+        <Button 
+            x:Name="bt_start"
+            Content="Start"
+            Background="Black"
+            Foreground="White"
+            Width="80px"
+            Height="30px"
+            Grid.Column="0"
+            Grid.Row="0"
+            HorizontalAlignment="Center" Click="bt_start_Click"/>
+
+        <TextBlock
+            x:Name="tbTimer"
+            Text="0"
+            Foreground="White"
+            Background="Transparent"
+            Width="80px"
+            Height="40px"
+            Grid.Column="0"
+            Grid.Row="0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            TextAlignment="Center"
+            FontSize="30px" Margin="0,0,0,90"
+            FontWeight="Bold"
+            />
+
+        <StackPanel Orientation="Vertical"
+                    Grid.Column="0"
+                    Grid.Row="1"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <Button 
+                x:Name="bt_Faster"
+                Content="Faster"
+                Width="60px"
+                Height="20px" Click="bt_Faster_Click"/>
+
+            <Button 
+                x:Name="bt_Slower"
+                Content="Slower"
+                Width="60px"
+                Height="20px" Margin="0,10,0,0" Click="bt_Slower_Click"/>
+
+            <Button 
+                x:Name="bt_Party"
+                Content="Party!"
+                Foreground="Green"
+                Background="OrangeRed"
+                FontSize="18px"
+                FontWeight="bold"
+                Width="90px"
+                Height="30px" Margin="0,10,0,0" 
+                Click="bt_Party_Click"/>
+
+
+
+        </StackPanel>
+
+        <ComboBox Grid.Row="3" 
+                  Grid.Column="0"
+                  Height="35px"
+                  Width="180px"
+                  x:Name="cb_Runner"
+                  SelectionChanged="ComboBox_SelectionChanged"
+                  >
+            <ComboBoxItem 
+                x:Name="Roadrunner"
+                Content="Roadrunner"/>
+            <ComboBoxItem
+                x:Name="TheRock"
+                Content="The Rock"/>
+            <ComboBoxItem 
+                x:Name="Speedy"
+                Content="Speedy"/> 
+
+
+        </ComboBox>
+        
+        
+
+
+    </Grid>
+    
+</Window>

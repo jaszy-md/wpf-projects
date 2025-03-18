@@ -1,0 +1,84 @@
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe.config
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.pdb
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\MainWindow.g.cs
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.cache
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.lref
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\MainWindow.baml
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.g.resources
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.Properties.Resources.resources
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.exe
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.pdb
+C:\Users\jasmi\Documents\summa ict\project\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe.config
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.pdb
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.AssemblyReference.cache
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\MainWindow.g.cs
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\App.g.cs
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.cache
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.lref
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\MainWindow.baml
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.g.resources
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.Properties.Resources.resources
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.GenerateResource.cache
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.CoreCompileInputs.cache
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.exe
+C:\Users\juriaan.manuela@cegeka.com\Downloads\wetransfer_wpf-c_2021-12-16_1410\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.pdb
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe.config
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.pdb
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\MainWindow.g.cs
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.cache
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.lref
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\MainWindow.baml
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.g.resources
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.Properties.Resources.resources
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.exe
+C:\Users\jasmi\Documents\summa ict\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.pdb
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe.config
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\MainWindow.g.cs
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.cache
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.lref
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\MainWindow.baml
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.g.resources
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.Properties.Resources.resources
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.exe
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.pdb
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.pdb
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\Window1.g.cs
+C:\Users\jasmi\Documents\Project PIZZA\project - kopie\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\Window1.baml
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe.config
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.pdb
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\MainWindow.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\Window1.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.lref
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\MainWindow.baml
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\Window1.baml
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.g.resources
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.Properties.Resources.resources
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.exe
+C:\Users\jasmi\Documents\summa ict\leerjaar1\periode1\programmeren\wpf marioo\WpfAppPizza juriaan\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.pdb

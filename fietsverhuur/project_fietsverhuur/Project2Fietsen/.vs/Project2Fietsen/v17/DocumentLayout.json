@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\project_fietsverhuur\\Project2Fietsen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A11056C-537D-4681-833A-DCCDA1BA638A}|Project2Fietsen\\Project2Fietsen.csproj|c:\\users\\jaszy\\onedrive\\documents\\code\\apps\\c#_apps\\project_fietsverhuur\\project2fietsen\\project2fietsen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A11056C-537D-4681-833A-DCCDA1BA638A}|Project2Fietsen\\Project2Fietsen.csproj|solutionrelative:project2fietsen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A11056C-537D-4681-833A-DCCDA1BA638A}|Project2Fietsen\\Project2Fietsen.csproj|C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\project_fietsverhuur\\Project2Fietsen\\project2fietsen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A11056C-537D-4681-833A-DCCDA1BA638A}|Project2Fietsen\\Project2Fietsen.csproj|solutionrelative:project2fietsen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A11056C-537D-4681-833A-DCCDA1BA638A}|Project2Fietsen\\Project2Fietsen.csproj|C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\project_fietsverhuur\\Project2Fietsen\\project2fietsen\\messageboxcustom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A11056C-537D-4681-833A-DCCDA1BA638A}|Project2Fietsen\\Project2Fietsen.csproj|solutionrelative:project2fietsen\\messageboxcustom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A11056C-537D-4681-833A-DCCDA1BA638A}|Project2Fietsen\\Project2Fietsen.csproj|C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\project_fietsverhuur\\Project2Fietsen\\project2fietsen\\messageboxcustom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A11056C-537D-4681-833A-DCCDA1BA638A}|Project2Fietsen\\Project2Fietsen.csproj|solutionrelative:project2fietsen\\messageboxcustom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\project_fietsverhuur\\Project2Fietsen\\Project2Fietsen\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Project2Fietsen\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\project_fietsverhuur\\Project2Fietsen\\Project2Fietsen\\MainWindow.xaml",
+              "RelativeToolTip": "Project2Fietsen\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T15:11:26.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\project_fietsverhuur\\Project2Fietsen\\Project2Fietsen\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Project2Fietsen\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\project_fietsverhuur\\Project2Fietsen\\Project2Fietsen\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Project2Fietsen\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACwCAAAAAAAAAAAAAKIBAAAxAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-21T15:11:26.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageboxCustom.xaml",
+              "DocumentMoniker": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\project_fietsverhuur\\Project2Fietsen\\Project2Fietsen\\MessageboxCustom.xaml",
+              "RelativeDocumentMoniker": "Project2Fietsen\\MessageboxCustom.xaml",
+              "ToolTip": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\project_fietsverhuur\\Project2Fietsen\\Project2Fietsen\\MessageboxCustom.xaml",
+              "RelativeToolTip": "Project2Fietsen\\MessageboxCustom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T15:11:26.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageboxCustom.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\project_fietsverhuur\\Project2Fietsen\\Project2Fietsen\\MessageboxCustom.xaml.cs",
+              "RelativeDocumentMoniker": "Project2Fietsen\\MessageboxCustom.xaml.cs",
+              "ToolTip": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\project_fietsverhuur\\Project2Fietsen\\Project2Fietsen\\MessageboxCustom.xaml.cs",
+              "RelativeToolTip": "Project2Fietsen\\MessageboxCustom.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-21T15:11:26.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

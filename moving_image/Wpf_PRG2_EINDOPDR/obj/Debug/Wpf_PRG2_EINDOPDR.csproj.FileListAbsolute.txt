@@ -1,0 +1,121 @@
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe.config
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.AssemblyReference.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\App.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.lref
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.baml
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.g.resources
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.Properties.Resources.resources
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.GenerateResource.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.CoreCompileInputs.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD1E\Programmeren\Progrm 2\Eindopdrachten\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.baml
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe.config
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.g.cs
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.g.cs
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.cache
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.lref
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.baml
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.baml
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.g.resources
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.Properties.Resources.resources
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe.config
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.lref
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.baml
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.baml
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.g.resources
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.Properties.Resources.resources
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe.config
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.g.cs
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.g.cs
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.cache
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.lref
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.baml
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.baml
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.g.resources
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.Properties.Resources.resources
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\imgtut\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe.config
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.g.cs
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.g.cs
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.cache
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.lref
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.baml
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.baml
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.g.resources
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.Properties.Resources.resources
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\jasmi\Documents\BACKUPS\bruibare_nohost\wpf_moving_img\WPF\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe.config
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.AssemblyReference.cache
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.g.cs
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.g.cs
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\App.g.cs
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.cache
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.lref
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.baml
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.baml
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.g.resources
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.Properties.Resources.resources
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.GenerateResource.cache
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.CoreCompileInputs.cache
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe.config
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\bin\Debug\Wpf_PRG2_EINDOPDR.pdb
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.AssemblyReference.cache
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.g.cs
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.g.cs
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\App.g.cs
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.cache
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR_MarkupCompile.lref
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\Hurray.baml
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\MainWindow.baml
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.g.resources
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.Properties.Resources.resources
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.GenerateResource.cache
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.csproj.CoreCompileInputs.cache
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.exe
+C:\Users\jaszy\OneDrive\Documents\code\apps\c#_apps\moving_image\Wpf_PRG2_EINDOPDR\obj\Debug\Wpf_PRG2_EINDOPDR.pdb

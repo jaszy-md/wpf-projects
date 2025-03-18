@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B945B515-9CA4-431D-AC35-13AB72E87A3D}|Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR.csproj|c:\\users\\jaszy\\onedrive\\documents\\code\\apps\\c#_apps\\wpf_prg2_eindopdr\\wpf_prg2_eindopdr\\wpf_prg2_eindopdr\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B945B515-9CA4-431D-AC35-13AB72E87A3D}|Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR.csproj|solutionrelative:wpf_prg2_eindopdr\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B945B515-9CA4-431D-AC35-13AB72E87A3D}|Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR.csproj|C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\wpf_prg2_eindopdr\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B945B515-9CA4-431D-AC35-13AB72E87A3D}|Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR.csproj|solutionrelative:wpf_prg2_eindopdr\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B945B515-9CA4-431D-AC35-13AB72E87A3D}|Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR.csproj|C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\wpf_prg2_eindopdr\\hurray.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B945B515-9CA4-431D-AC35-13AB72E87A3D}|Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR.csproj|solutionrelative:wpf_prg2_eindopdr\\hurray.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B945B515-9CA4-431D-AC35-13AB72E87A3D}|Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR.csproj|C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\wpf_prg2_eindopdr\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B945B515-9CA4-431D-AC35-13AB72E87A3D}|Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR.csproj|solutionrelative:wpf_prg2_eindopdr\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B945B515-9CA4-431D-AC35-13AB72E87A3D}|Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR.csproj|C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\wpf_prg2_eindopdr\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B945B515-9CA4-431D-AC35-13AB72E87A3D}|Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR.csproj|solutionrelative:wpf_prg2_eindopdr\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\App.config",
+              "RelativeDocumentMoniker": "Wpf_PRG2_EINDOPDR\\App.config",
+              "ToolTip": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\App.config",
+              "RelativeToolTip": "Wpf_PRG2_EINDOPDR\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-21T17:11:03.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\App.xaml",
+              "RelativeDocumentMoniker": "Wpf_PRG2_EINDOPDR\\App.xaml",
+              "ToolTip": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\App.xaml",
+              "RelativeToolTip": "Wpf_PRG2_EINDOPDR\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T17:11:02.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hurray.xaml",
+              "DocumentMoniker": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\Hurray.xaml",
+              "RelativeDocumentMoniker": "Wpf_PRG2_EINDOPDR\\Hurray.xaml",
+              "ToolTip": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\Hurray.xaml",
+              "RelativeToolTip": "Wpf_PRG2_EINDOPDR\\Hurray.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T17:11:00.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf_PRG2_EINDOPDR\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Wpf_PRG2_EINDOPDR\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:10:28.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Wpf_PRG2_EINDOPDR\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jaszy\\OneDrive\\Documents\\code\\apps\\c#_apps\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\Wpf_PRG2_EINDOPDR\\MainWindow.xaml",
+              "RelativeToolTip": "Wpf_PRG2_EINDOPDR\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T18:10:28.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

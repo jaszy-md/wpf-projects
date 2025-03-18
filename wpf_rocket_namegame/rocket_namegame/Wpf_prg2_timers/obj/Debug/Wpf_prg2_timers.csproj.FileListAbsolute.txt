@@ -1,0 +1,118 @@
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\bin\Debug\Resources\woorden.txt
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.exe.config
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.exe
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.pdb
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Bartender.g.cs
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Countdown.g.cs
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\WordRocket.g.cs
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\App.g.cs
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_MarkupCompile.cache
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_MarkupCompile.lref
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Bartender.baml
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Countdown.baml
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\WordRocket.baml
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.g.resources
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.Properties.Resources.resources
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.GenerateResource.cache
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.CoreCompileInputs.cache
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.exe
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.pdb
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\bin\Debug\Resources\oktoberfest1.png
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\bin\Debug\Resources\oktoberfest2.png
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_Content.g.cs
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\bin\Debug\Resources\beer.png
+C:\Users\lure\Documents\Vakken\jaar2021_KD\PRG2\WPF\Wpf_prg2_timers\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csprojAssemblyReference.cache
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.exe
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.pdb
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\bin\Debug\Resources\beer.png
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\bin\Debug\Resources\oktoberfest1.png
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\bin\Debug\Resources\oktoberfest2.png
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\bin\Debug\Resources\woorden.txt
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.exe.config
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.exe
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.pdb
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\Countdown.g.cs
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\WordRocket.g.cs
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\App.g.cs
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_Content.g.cs
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_MarkupCompile.cache
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_MarkupCompile.lref
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\Countdown.baml
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\WordRocket.baml
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.g.resources
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.Properties.Resources.resources
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.GenerateResource.cache
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1en8_2\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.CoreCompileInputs.cache
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\Countdown.g.cs
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\WordRocket.g.cs
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\App.g.cs
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_MarkupCompile.cache
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_MarkupCompile.lref
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.exe
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.pdb
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\bin\Debug\Resources\woorden.txt
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.exe.config
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.exe
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.pdb
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\Countdown.baml
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\WordRocket.baml
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.g.resources
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.Properties.Resources.resources
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.GenerateResource.cache
+X:\Niveau 4\SD Cohort 20-24\OP2\Programmeren\Opdrachten\H8-WPF\studenten\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\bin\Debug\Resources\woorden.txt
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.exe.config
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.exe
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.pdb
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Countdown.g.cs
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\WordRocket.g.cs
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_MarkupCompile.cache
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_MarkupCompile.lref
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Countdown.baml
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\WordRocket.baml
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.g.resources
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.Properties.Resources.resources
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.exe
+C:\Users\jasmi\Documents\summa ict\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.pdb
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\bin\Debug\Resources\woorden.txt
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.exe.config
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.exe
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.pdb
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Countdown.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\WordRocket.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_MarkupCompile.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_MarkupCompile.lref
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Countdown.baml
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\WordRocket.baml
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.g.resources
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.Properties.Resources.resources
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.exe
+C:\Users\jasmi\Documents\summa ict\leerjaar1\ZIIPY\programmeren periode 2\opdracht8_1\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.pdb
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\bin\Debug\Resources\woorden.txt
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.exe.config
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.exe
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\bin\Debug\Wpf_prg2_timers.pdb
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.AssemblyReference.cache
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\Countdown.g.cs
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\WordRocket.g.cs
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\App.g.cs
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_MarkupCompile.cache
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers_MarkupCompile.lref
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\Countdown.baml
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\WordRocket.baml
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.g.resources
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.Properties.Resources.resources
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.GenerateResource.cache
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.exe
+C:\Users\jasmi\Documents\BACKUPS\Backup_new\portfolio_stage\leerjaar1\wpfc#\wpf_opdrachten\rocket_namegame\Wpf_prg2_timers\obj\Debug\Wpf_prg2_timers.pdb
